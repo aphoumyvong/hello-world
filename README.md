@@ -3,5 +3,4 @@ Hello World Guide
 
 Hello world!
 
-My name is Adrian P. I'm a student that is currently studying computer science. I love playing video-games,
-listening to music, and hanging out with friends. 
+My name is Adrian P. My hobbies include PC Building, Programming, Gaming, Aquascaping, Fishkeeping, and Caring for Plants.  
